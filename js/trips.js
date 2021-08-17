@@ -8,7 +8,7 @@ window.addEventListener("cloudkitloaded", function() {
         environment: "production",
         apnsEnvironment: "production",
         apiTokenAuth: {
-          apiToken: "4ff6e686d07f5c352890701bcff389ed23a506ddfc27a57b8cb8118f16f82ba",
+          apiToken: "4ff6e686d07f5c352890701bcff389ed23a506ddfc27a57b8cb8118f16f82ba4",
           persist: true,
           signInButton: {
             id: "apple-sign-in-button",
